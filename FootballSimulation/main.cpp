@@ -12,4 +12,5 @@ using namespace std;
 int main()
 {
     cout<<112<<endl;
+    cout<<221312<<endl;
 }
